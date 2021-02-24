@@ -31,6 +31,9 @@ h2.cursoh2 {
   text-transform: uppercase;
 }
 
+div.modified {display: none;
+}
+
 h3.cursoh3 {
   margin: 0cm 0cm 0.0001pt;
   line-height: 150%;
