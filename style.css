@@ -113,18 +113,18 @@ p.LinkLeitura {
 }
 
 p.Title {
-  margin: 0cm 0cm 0.0001pt;
+    margin: 0cm 0cm 0.0001pt;
   line-height: 150%;
   text-align: justify;
   border-top: 1px solid white;
   padding-left: 10pt;
-  font-size: 13pt;
+  font-size: 12pt;
   font-family: Roboto, sans-serif;
-  color:-webkit-linear-gradient(0deg,#56c3e8 0%,#4b3b90 100%);
+  color: #1D7E89;
   text-transform: uppercase;
   font-weight: normal;
   line-height: 150%;
-  border-bottom: solid -webkit-linear-gradient(0deg,#56c3e8 0%,#4b3b90 100%); 1.5pt;
+  border-bottom: solid #57C3E9 1.5pt;
 }
 
 div.show-content {
